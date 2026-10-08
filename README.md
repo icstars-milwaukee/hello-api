@@ -22,12 +22,12 @@ One game, three passes — **I do → We do → You do.**
 ## Get it on your laptop
 
 ```
-git clone https://github.com/icstars-milwaukee/icstars-rfp-molson-cycle21-carl-.git
-cd icstars-rfp-molson-cycle21-carl-
+git clone https://github.com/icstars-milwaukee/hello-api.git
+cd hello-api
 ```
 
 Then right-click `index.html` → **Open with Live Server** in VS Code.
-Or just read it in the browser: **https://icstars-milwaukee.github.io/icstars-rfp-molson-cycle21-carl-/**
+Or just read it in the browser: **https://icstars-milwaukee.github.io/hello-api/**
 
 ---
 
